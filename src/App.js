@@ -7,7 +7,7 @@ class App extends Component {
       {
         brdno: 1,
         brdwriter: "Lee SunSin",
-        brdtitle: "If you intend to live then you die",
+        brdtitle: "If you intend to live then you di",
         brddate: new Date(),
       },
       {
